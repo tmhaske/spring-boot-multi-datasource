@@ -116,7 +116,8 @@ spring.games.datasource.url=jdbc:mysql://localhost:3306/video_games
 spring.games.datasource.username=root
 spring.games.datasource.password=password
 spring.games.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-
+```
+```java 
 # University Database Configuration
 spring.universites.datasource.url=jdbc:mysql://localhost:3306/universities
 spring.universites.datasource.username=root
